@@ -1,113 +1,107 @@
 ---
-description: Exploring the Role of Governance on Solana
+description: Exploring the downsides of Governance on Solana
 ---
 
 # Solana Governance Insights
 
 **Introduction**
 
-As discussions about governance become increasingly prevalent and the concept of governance gains popularity, it's essential to share a detailed perspective that may challenge the prevailing consensus in these conversations.
+When the dialog about governance started to become more common, and the idea of governance started to become more popular I thought that perhaps my position which seems contrarian to that of the consensus perceived in the conversation. 
+So, I wanted to share in more detail my thoughts about the topic. 
+
 
 ## The Essence of Governance
 
-My central argument regarding governance revolves around whether Solana stands to gain more from implementing a governance mechanism at its current stage or from abstaining. 
-
-Within the community, debates are ongoing, addressing critical questions such as:
-
-- What is the optimal governance form?
-- Who should have the voting rights?
-- How should voting power be distributed?
-
-While I hold numerous thoughts on these questions, this discussion focuses on the fundamental question of whether governance benefits the Solana protocol in its current state.
+My main argument when it comes to governance is that it seems to me that Solana has a lot more to lose from having a governance mechanism at the current stage, than by not having one. 
+There’s another debate about other kinds of questions that the community has been having, for example: 
+ What’s the best form of governance? 
+ Who should vote? 
+ How is voting power allocated? 
+ Etc. 
+ 
+I have a lot of thoughts about these questions, but here I’m not going to go into the details of governance. The main idea that I want to explore is this question about how beneficial is governance to the Solana protocol at its current stage since one must believe first that something is beneficial before debating how to implement it. 
 
 ## Quality of Decisions
 
-In any context, be it a country, organization, project, or blockchain, the organization's structure is crucial. However, what ultimately matters most is not the organizational mechanism itself, but the quality of the decisions it produces.
-
-This principle is self-evident: if a group decides on a poor course of action for its shared resources, it will inevitably suffer the consequences. The method used to arrive at this decision is secondary to its impact.
+When it comes to a country, an organization, a project, or a blockchain, the way this group of people organizes themselves around is very important, but the most important thing is not the organization mechanism, but the quality of the decisions. 
+This idea seems self-evident, if a group of people decides that the best thing to do with the resources of the group is to use them on a terrible decision, the group will lose those resources and therefore suffer from that loss (An example of this may be the multiple times populations have elected communist leaders), The way one may reach that idea is irrelevant in comparison to the consequences of implementing the idea, so making good decisions is more important than the mechanism one employed to get to that decision. 
 
 ## Challenges of Popular Governance Mechanisms
 
-In the crypto world, stake-weighted voting has become the standard governance mechanism. While it aligns with ideals of decentralization and fairness, it has shortcomings worth exploring.
-
-Consider this analogy: imagine creating a company to manufacture electric cars and allowing everyone to vote on its decisions.
-
-The flaws in this approach become evident:
-
-- Decisions made by everyone tend to be average.
-- Most individuals possess minimal knowledge of car manufacturing.
-- In a highly competitive industry like car manufacturing, average decisions lead to failure.
-- Expertise is diluted in a sea of uninformed votes.
-
-These issues, though apparent to me, are prevalent in societies and groups that have adopted certain governance mechanisms. Evidence can be found in the fact that, in democratic systems, experienced leaders are sometimes overshadowed by less qualified candidates due to governance structures.
+When it comes to the governance mechanisms more popular in crypto spheres, stakeweight voting seems to be the Defacto, and although the ideas of decentralization, and fairness seem usually to be associated with voting governance mechanisms it's no wonder why these forms of governance become popular among most people. 
+But I want to perhaps push back a bit on these ideas, by reframing the question, so that the disadvantages of governance become more apparent, and my ideas more understood. 
+Let’s say I wanted to create a company to build electric cars, and the mechanism that I decided to employ to make decisions to create this car company is by allowing everybody to vote. 
+it would very apparently come as a really bad idea: 
+A decision taken by everybody is by definition average. 
+The average knowledge a person has about car manufacturing is very close to 0. 
+Car manufacturing is a very competitive field, taking average decisions is by definition a losing strategy. 
+The vote of the guy who has decades of experience manufacturing cars is worth as much as the guy who spends most of his weekends drinking like there’s no tomorrow. 
+The vote of those that know about the topic, would be diluted in a sea of uninformed votes. 
+These ideas, although self-evident at least to me, plague society, and groups of people, because of the governance mechanisms they’ve imposed on themselves, we don’t have to look that much for evidence to find the two most likely candidates for the most powerful position in the world to be +70 years old grandpas (Trump and Biden) with varying degrees of mental clarity.  
+If some advanced civilization arrived on earth and examined our political system their heads would explode processing the idea that among the extensive pool of talent that exists in the United States, these two guys that would hardly get a position in the private sector in a competitive field just because of their age, would be the two most popular options among voters for the most important position in the world. 
+But what about all the candidates that may perhaps be better options than these two guys, How come? 
 
 ## The Unseen Downsides
 
-One of the hidden drawbacks of such governance mechanisms is their influence on voter behavior. When voting for the fourth candidate, who has a 2% popularity, is as impactful as not voting at all, voters tend to opt for the lesser of several potential evils rather than the best option. This can lead to candidates spending more effort discrediting opponents than promoting their own ideas.
+The unseen downside of these governance mechanisms is that they also modify the behavior of voters, Since voting for the 4th candidate which has a popularity of 2% is as impactful as just not voting at all voters tend to just vote for the least bad among the potential winners, rather than from the best option. 
+This also drives a bunch of unseen incentives, in which one candidate may find it more worthy to spend time discrediting the other candidate than persuading people about his ideas. 
+And here’s where perhaps the downside in the idea of governance becomes more apparent. 
 
 ## Governance in Blockchains
 
-Unlike governments, blockchains operate in a competitive landscape. Out of the top 15 cryptocurrencies that claimed their positions in 2018, only five remain in the top 15 today, and most have seen declines in their market share. 
-
-The cryptocurrency world resembles more of a business ecosystem than a government. Here, making the right decisions takes precedence over the mechanisms employed to make them.
-
-While stake-weighted voting in crypto is not the same as in democratic countries, it exhibits enough similarities to warrant scrutiny for its potential deficiencies.
+Luckily for governments, they don’t have competition, so this system keeps perpetuating until the debts (accumulation of bad decisions) become so big that they hyperinflate the currency, but that’s a topic for another day. 
+“Sadly” for Solana, this is not the case when it comes to blockchains, Out of the Top 15 cryptocurrencies that claimed these positions in 2018, today only 5 of those are still in the top 15, and most of them have seen declines in their total market share, it’s very clear the cryptocurrency landscape resembles more that of a car company than that of a government, in which making the right decisions is more crucial than the mechanisms one employs to make those decisions. 
+Now to be fair the stake weight voting mechanism is not equivalent to that of most democratic countries, but it seems that it’s close enough that one may perhaps learn from the deficiencies that a governance mechanism like that is prone to. 
 
 ## Corporate Shareholder Mechanisms
 
-Contrast this with the governance mechanisms used by most car manufacturers in the United States, which primarily rely on corporate shareholder structures. Shareholders select directors, who appoint managers to run the companies. These systems, while not producing the best-performing stock market companies, generally function well in a competitive environment.
+Now, coming back to my car company example, when one looks at the governance mechanisms of most of the car manufacturers in the US for example, it’s mostly a corporate shareholder mechanism, in which shareholders pick the directors, who appoint managers, who in turn, run corporations, and for the most part, these systems work. These kinds of companies are for the most part not even close to the best-performing companies in the stock market, but they do seem to work somewhat okay in the competitive environment if you don’t account for the multiple times the government has had to bail them out. 
 
 ## Founder-Led Success
 
-Consider the top seven companies in the S&P 500: Apple, Microsoft, Amazon, Nvidia, Google, Tesla, and Facebook. These companies share a common thread – they were founded and led by visionaries who gained traction and executed their ideas.
-
-- Apple, led by the iconic Steve Jobs.
-- Microsoft, under the founder-led leadership of Bill Gates (1975–2000).
-- Amazon, helmed by Jeff Bezos (1994–2021).
-- Nvidia, with Jensen Huang as CEO (since 1993).
-- Google, co-founded and still influenced by Larry Page and Sergey Brin (holding 56% of voting shares).
-- Tesla, driven by the vision of Elon Musk.
-- Facebook, led by Mark Zuckerberg.
-
-These companies demonstrate that governance is not a prerequisite for making sound decisions. They suggest that the right visionary leader can outperform any governance mechanism.
+One may ask, what’s the best governance mechanism that will lead to the best decisions being made since we already established that the quality of decisions is more important than the mechanism one employs to get them? And it’s impossible to ignore the evidence, or rather extremely unlikely coincidence right there in the top 7 companies in the S&P 500, Apple, Microsoft, Amazon, Nvidia, Google, Tesla, and Facebook, they all have in common one thing, they were founder-led companies, one guy with a vision of what the future could look like, that gained enough traction and that was allowed to execute on those ideas. 
+Apple with the iconic Steve Jobs. 
+The founder-led Microsoft with Bill Gates as CEO (1975–2000)  
+The founder-led Amazon with Jeff Bezos as CEO (1994–2021) 
+The founder-led Nvidia with Jensen Huang as CEO (1993–Today) 
+The founder led Google with Larry Page and Sergey Brin which still today together hold 56% of the voting shares. 
+The iconic Tesla with Elon Musk. 
+The iconic Facebook with Mark Zuckerberg. 
+At least these companies serve as evidence that governance is not a requisite to making good decisions and perhaps are evidence of the opposite, that the right guy, with the right vision, is vastly superior to any governance mechanisms humanity has come up with. 
 
 ## Adoption of Cryptocurrency
 
-Turning our attention to cryptocurrency adoption, around 5 million people use blockchains daily, even though this estimate might be conservative. With 128 million registered users on Binance, one of the largest exchanges, the crypto market has reached a 1.6% adoption rate compared to the global population. This places it roughly at the 1995 stage of the internet adoption curve.
+And here is where I may perhaps ask the reader to look at the facts, if one looks at the on-chain metrics (1), one can estimate that around 5 million people may be using blockchains daily, but let’s try to convey as much users as possible, since a lot of the userbase on less scalable chains tends to congregate on centralized exchanges, Based on exchange registered users Binance, the largest exchange has about 128 million registered users (2), not all registered users are active users but one can start to get an idea of the most optimistic user base estimates. Since there are 8 billion people in the world, assuming crypto has 128 million users, crypto is currently at an adoption rate of 1.6% of the world population, which puts us at around 1995 in the adoption bell curve of the internet. 
 
 ## Solana's Unique Position
 
-Now, let's focus on Solana. With approximately 200,000 daily on-chain users and a market dominance of 0.73% within the 1.6% adoption rate, Solana is still in its infancy. At this stage, Solana stands to gain more from fostering a startup culture that prioritizes innovation over adopting a governance mechanism based on stake-weighted voting.
+Now back to Solana, estimates of the on-chain user base are currently around 200k daily, currently Solana has a market dominance of 0.73% within that already small mere 1.6% adoption rate, this technology is still in its infancy, to which it seems to me that it’s quite evident that Solana has a lot more to gain from a startup culture where innovation is put as the most important value, than as a protocol in which decisions are made based on stake weight voting. 
+As far as I've been able to judge, Anatoly seems to me like one of the most first-principle thinkers in all of crypto, and his approach to tackling problems from day one, as opposed to most founders where their crypto project can be characterized more in terms of a future vision, than an actuality, for these and a lot more reasons, it’s my humble opinion that governance although an idea with good intentions, it’s more likely to have more downside, than upside to the future of the project. 
 
-In my assessment, Anatoly appears to be one of the most principled thinkers in the crypto space. His approach of addressing problems from day one sets him apart from most founders who emphasize future vision over actual execution. For these reasons, I hold the humble opinion that governance, while well-intentioned, may pose more risks than benefits to the future of the Solana project.
 
 ## A Parallel with SpaceX
 
-Drawing a parallel with SpaceX, the early days of rocket development witnessed numerous failures and explosions. Elon Musk emphasized the importance of the rate of innovation, asking whether it was accelerating or decelerating. This perspective also applies to Solana's multiple outages.
-
-To unsophisticated observers, these outages might appear as grounds for dismissing the project. However, to those who understand the innovations built on Solana, these failures represent opportunities for continuous innovation. As long as they are not catastrophic events, failure can be a stepping stone to progress. Present-day SpaceX benefits from more structured rules and protocols, akin to governance, as the stakes are significantly higher for those flight that involve astronauts.
+The simplest comparison that I can make about this idea is that of SpaceX, when SpaceX first started developing rockets, most of their rockets would simply just fail and explode, in this stage the most important value to be had in the company as Elon Musk multiple times said, “the rate of innovation is what matters, and is the rate of innovation accelerating or decelerating?”, I can’t help but make parallels to Solana's Mutiple outages, which to the unsophisticated observer may seem like a good reason to dismiss the project, but to the sophisticated observer knowing all the innovations that are built on Solana, knows that it’s better to fail and keep innovating, than not failing and having a rate of innovation that is a lot slower, as long as it is not a catastrophic event, Now in the present SpaceX benefits from a set of rules, and protocols something resembling governance in the development of their older models since now the stakes are really high, they routinely have been sending astronauts to the ISS, and since there’s a lot in stake, it benefits a lot more, from a more thought out, and slow process of development. 
 
 ## Solana's Stage of Development
 
-The critical question for Solana is whether it is in the early stages of its adoption curve or already established. If Solana were firmly established, I would advocate for a governance mechanism. However, I estimate that it is not the case. At this juncture, Solana stands to gain more from prioritizing the rate of innovation over the mechanisms governing rules and decisions.
-
-In my view, Anatoly is likely the most qualified person to make decisions for the project at this time.
+I may ask the reader if they consider Solana to be in the early stage of its adoption curve, or the already established stage if Solana were in the already established stage, I would without a doubt advocate for a governance mechanism since it probably would gain more from having standards, and protocols when it comes to doing things, but I estimate that that’s not the case, and currently Solana has a lot more to gain from focusing on the rate of innovation rather than the mechanism by which the rules, and decisions are being made, because I think Anatoly is probably the most qualified person to making those decisions at the present moment. 
 
 ## Decentralization and Open Source
 
-Critics may argue that a cryptocurrency must remain decentralized, with no centralized decision-making. I concur, but that does not preclude visionaries like Anatoly from garnering voluntary support. Moreover, everything developed by Solana Labs is open source, allowing the community to continue development if they believe Anatoly's vision no longer aligns with stakeholder interests.
+Now some people have rightly so criticized a couple of my ideas, based on the principle that a cryptocurrency must be decentralized and there shouldn’t be some centralized entity making the decisions, to which I agree, but that doesn’t mean that there are not people like Anatoly with a convincing vision that a lot of people voluntarily want to rally around, and fundamentally everything being developed by Solana labs is open source, so all that code is always available for anyone in the community to continue developing if at some point if part of the community estimates that Anatoly's vision is no longer in the interest of the stakers, As long as that part of the community reasons for forking from the lab's client is based on solid arguments, they will always be able to persuade a good percentage of stakers. 
 
 ## Governance in Crypto Projects
 
-Historically, crypto projects that introduced governance often lost relevance to those that focused on technological advancements. Governance appeared to inhibit innovation in competitive crypto markets, where nearly every decision required governance approval.
+And if history serves as an example most of the crypto projects that I've been interested in over time, that have implemented the idea of governance, have indirectly been slowly losing relevance to projects that have developed simply better technology, It’s my guess that the effects of governance on blockchains, tends to be similar to that of governance in the political sphere, in which the side effects of these ideas is the taking of suboptimal decisions, and the slowdown of innovation in the projects, since most things now have to go through a governance approval, and in such a competitive environment as the crypto markets, that’s the perfect recipe for the slowdown of innovation and eventual irrelevance over the long run. 
 
 ## Conclusion
 
-In closing, while I acknowledge valid concerns raised by participants in this conversation, my intent is not to dismiss them. Indeed, these concerns must be addressed, and communication with Labs engineers improved. However, in the best interest of the protocol and all stakeholders, I believe that, at this early stage of development, Solana should steer clear of implementing a governance mechanism.
+In closing, while I acknowledge valid concerns raised by participants in this conversation, my intent is not to dismiss them. Indeed, these concerns must be addressed, and communication with Labs engineers improved. However, in the best interest of the protocol and all stakeholders, It seems to me that at this early stage of development, Solana implementing a governance mechanism has a lot more downside than upside.
 
-I welcome criticism and feedback on my ideas, as they can guide us toward the best outcome for all.
+I am looking forward to criticism of my ideas to lead the conversation in the best outcome for everybody. 
 
 Sources:
 - [Artemis Overview](https://app.artemis.xyz/overview)
 - [Binance Statistics](https://www.finder.com/binance-statistics)
-- [YouTube - Rate of Innovation](https://www.youtube.com/shorts/ReXzsnyDq_M)
+- [YouTube - Rate of Innovation](https://youtu.be/Xg0Exup-uxM?t=260)
